@@ -3,3 +3,4 @@ gitの練習をしていきます。
 3コミット
 git rm
 git status
+git diff
